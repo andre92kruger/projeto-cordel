@@ -82,7 +82,7 @@ section > p {
 }
 
 section#img01 {
-    background-image: url(https://github.com/andre92kruger/projeto-cordel/blob/main/imagens/background001.jpg);
+    background-image: url(https://raw.githubusercontent.com/andre92kruger/projeto-cordel/refs/heads/main/imagens/background001.jpg);
     background-position: right center;
     
 }
